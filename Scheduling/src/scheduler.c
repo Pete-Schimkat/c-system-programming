@@ -14,6 +14,8 @@
 #include "../lib/colors.h"
 #include "../lib/scheduler.h"
 
+/*This was supplied as part of the template*/
+
 static int toggle_color=1;
 
 static process** arriving_processes;
